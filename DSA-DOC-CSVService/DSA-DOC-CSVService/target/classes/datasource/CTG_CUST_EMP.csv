@@ -1,0 +1,11 @@
+categoryCode,categoryName,lowerBound,upperBound
+B1,Very Low Budget,0.0,30000.0
+B2,Low Budget,30000.1,60000.0
+B3,Lower-Mid Budget,60000.1,100000.0
+B4,Medium Budget,100000.1,150000.0
+B5,Upper-Mid Budget,150000.1,200000.0
+B6,High Budget,200000.1,300000.0
+B7,Luxury Budget,300000.1,400000.0
+B8,Elite Budget,400000.1,600000.0
+B9,Ultra Luxury,600000.1,800000.0
+B10,Premium Elite,800000.1,1000000.0

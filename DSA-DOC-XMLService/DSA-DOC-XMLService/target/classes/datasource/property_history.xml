@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<propertyHistoryList>
+    <entry>
+        <propertyId>df3b671d-e9fa-4782-b1eb-50ec729e1540</propertyId>
+        <modificationDate>2020-12-22</modificationDate>
+        <previousPrice>221986.17</previousPrice>
+        <newPrice>280569.03</newPrice>
+        <reason>market change</reason>
+        <oracleId>1</oracleId>
+    </entry>
+    <entry>
+        <propertyId>299068c6-9459-43e3-9f53-956cc3f9829e</propertyId>
+        <modificationDate>2020-01-14</modificationDate>
+        <previousPrice>483628.94</previousPrice>
+        <newPrice>266956.77</newPrice>
+        <reason>renovation</reason>
+        <oracleId>2</oracleId>
+    </entry>
+    <entry>
+        <propertyId>ed3751bd-e2dc-4431-9448-9e5237bfc90a</propertyId>
+        <modificationDate>2023-04-11</modificationDate>
+        <previousPrice>358195.11</previousPrice>
+        <newPrice>389940</newPrice>
+        <reason>market change</reason>
+        <oracleId>3</oracleId>
+    </entry>
+</propertyHistoryList>
